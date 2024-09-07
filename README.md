@@ -16,8 +16,7 @@ This project focuses on implementing and comparing two supervised learning algor
 ## Dataset
 
 - **Name**: Wisconsin Breast Cancer Database  
-- **Source**: [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)  
-- **Date**: January 8, 1991  
+- **Source**: [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)   
 
 ### Information About the Dataset
 
